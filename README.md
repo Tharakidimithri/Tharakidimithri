@@ -1,7 +1,9 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Hi 👋, I'm Tharaki Dimithri</h1>
 <h3 align="center">I'm a Undergraduate Computer Science student at IIT Sri Lanka</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tharakidimithri&label=Profile%20views&color=0e75b6&style=flat" alt="tharakidimithri" /> </p>
+<img align= "right"  alt="coding" width="400" src="://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F89zrs9ir7e8d1fzwba3f.gif">
+  
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharakidimithri&label=Profile%20views&color=0e75b6&style=flat" alt="tharakidimithri" /> </p>
 
 - 🌱 I’m currently learning **Python, Java, Javascript, HTML and CSS**
 
