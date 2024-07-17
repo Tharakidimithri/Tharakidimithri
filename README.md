@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Hi 👋, I'm Tharaki Dimithri</h1>
 <h3 align="center">I'm a Undergraduate Computer Science student at IIT Sri Lanka</h3>
-<img align= "right"  alt="coding" width="400" src="://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F89zrs9ir7e8d1fzwba3f.gif">
+<img align= "right"  alt="coding" width="400" src="https://camo.githubusercontent.com/3612ee9ed74410f8215009e743bde46d2bd74b96bc330563604211dc5f35d4b1/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966">
   
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharakidimithri&label=Profile%20views&color=0e75b6&style=flat" alt="tharakidimithri" /> </p>
 
